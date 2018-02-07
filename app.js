@@ -15,7 +15,7 @@ $('.pokreni').click(function(){
     addHearts();
     $('#pocetak').val('Reset');
     $('.gameOver').hide();
-    $('#zivoti').show();
+    //$('#zivoti').show();
 
     //$('.gameOver').hide();
    startAction();
